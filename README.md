@@ -1,9 +1,7 @@
-              
-                                                                                                PLANTY STORE
-    
     Features:
 
-    Browser : I used Chrome Browser.                                   
+    Browser : I used Chrome Browser.  
+    
     Header and Footer : Used in All Webpages  and three Headers and one footer in Homepage.
 
     Slider : Used for displaying the images sliding in Homepage.
